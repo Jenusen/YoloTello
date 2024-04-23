@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>IMG_20240415_234900.jpg</filename>
+	<path>E:\Desktop\photo\IMG_20240415_234900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3072</width>
+		<height>4096</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>971</xmin>
+			<ymin>1120</ymin>
+			<xmax>2201</xmax>
+			<ymax>2815</ymax>
+		</bndbox>
+	</object>
+</annotation>

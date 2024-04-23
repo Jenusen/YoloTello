@@ -1,0 +1,5 @@
+E:/pycharmFile/Camera/yolov5_Monocular_ranging-main_v1/yolov5_Monocular_ranging-main/Cardata/images/IMG_20240415_234955.jpg
+E:/pycharmFile/Camera/yolov5_Monocular_ranging-main_v1/yolov5_Monocular_ranging-main/Cardata/images/IMG_20240415_235045.jpg
+E:/pycharmFile/Camera/yolov5_Monocular_ranging-main_v1/yolov5_Monocular_ranging-main/Cardata/images/IMG_20240415_235316.jpg
+E:/pycharmFile/Camera/yolov5_Monocular_ranging-main_v1/yolov5_Monocular_ranging-main/Cardata/images/IMG_20240415_235336.jpg
+E:/pycharmFile/Camera/yolov5_Monocular_ranging-main_v1/yolov5_Monocular_ranging-main/Cardata/images/IMG_20240415_235604.jpg

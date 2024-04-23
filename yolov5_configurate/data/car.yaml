@@ -1,0 +1,8 @@
+train: E:/pycharmFile/Camera/yolov5_Monocular_ranging-main_v1/yolov5_Monocular_ranging-main/Cardata/dataSet_path/train.txt
+val: E:/pycharmFile/Camera/yolov5_Monocular_ranging-main_v1/yolov5_Monocular_ranging-main/Cardata/dataSet_path/val.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ["car"]
